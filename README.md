@@ -1,1 +1,1 @@
-# FamilyOrganizer
+# Kinppy - Family Organizer
