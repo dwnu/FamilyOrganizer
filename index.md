@@ -29,13 +29,12 @@ Our Service may contain links to other sites. If you click on a third-party link
 ### Children’s Privacy
 We do not knowingly collect personally identifiable information from anyone under the age of 16.
 
-### Changes to This Privacy Policy
-We may update our Privacy Policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom*. 
-
-
 ### Account removal
 If you want to delete data, like tasks, products in the shopping list or favourite locations, you will have to do it manually within the application. 
 If you want to delete the account ("undo" registration), send email to dawidwnukowskidev@yahoo.com, using the email associated with your Kinppy account.
+
+### Changes to This Privacy Policy
+We may update our Privacy Policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom*. 
 
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy or Service, do not hesitate to contact us.
