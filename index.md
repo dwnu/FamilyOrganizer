@@ -32,9 +32,14 @@ We do not knowingly collect personally identifiable information from anyone unde
 ### Changes to This Privacy Policy
 We may update our Privacy Policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom*. 
 
+
+### Account removal
+If you want to delete data, like tasks or products in the shopping list, favourite locations, you will have to do it manually within the application. 
+If you want to delete the account ("undo" registration), send email to dawidwnukowskidev@yahoo.com, using the email associated with your Kinppy account.
+
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy or Service, do not hesitate to contact us.
 Email: <dawidwnukowskidev@yahoo.com>
 
 <br>
-*Last update: 17 May 2019
+*Last update: 3 June 2019
