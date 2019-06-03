@@ -34,7 +34,7 @@ We may update our Privacy Policy at any time by giving notice to its Users on th
 
 
 ### Account removal
-If you want to delete data, like tasks or products in the shopping list, favourite locations, you will have to do it manually within the application. 
+If you want to delete data, like tasks, products in the shopping list or favourite locations, you will have to do it manually within the application. 
 If you want to delete the account ("undo" registration), send email to dawidwnukowskidev@yahoo.com, using the email associated with your Kinppy account.
 
 ### Contact Us
