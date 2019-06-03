@@ -31,7 +31,7 @@ We do not knowingly collect personally identifiable information from anyone unde
 
 ### Account removal
 If you want to delete data, like tasks, products in the shopping list or favourite locations, you will have to do it manually within the application. 
-If you want to delete the account ("undo" registration), send email to dawidwnukowskidev@yahoo.com, using the email associated with your Kinppy account.
+<br>If you want to delete the account ("undo" registration), send email to dawidwnukowskidev@yahoo.com, using the email associated with your Kinppy account.
 
 ### Changes to This Privacy Policy
 We may update our Privacy Policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom*. 
